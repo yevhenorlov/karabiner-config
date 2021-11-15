@@ -1,4 +1,4 @@
-# Karabiner Config for my Varmilo VA108M
+# ⌨️ Karabiner config for my Varmilo VA108M
 
 forked from awesome config by Jesse Skelton showed here: [https://youtu.be/uaJSjgVEhMQ](https://youtu.be/uaJSjgVEhMQ)
 
